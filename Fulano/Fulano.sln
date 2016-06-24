@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{959DDF89-913E-AE97-0CB5-71697652C958}") = "Fulano", "Assembly-CSharp.csproj", "{2B8835DC-BEB5-1EBD-EDD3-76B8BABC0E00}"
+EndProject
+Project("{959DDF89-913E-AE97-0CB5-71697652C958}") = "Fulano", "Assembly-CSharp-Editor.csproj", "{09E78361-43B2-2401-EF76-BFE5B2F1CA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8835DC-BEB5-1EBD-EDD3-76B8BABC0E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8835DC-BEB5-1EBD-EDD3-76B8BABC0E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8835DC-BEB5-1EBD-EDD3-76B8BABC0E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8835DC-BEB5-1EBD-EDD3-76B8BABC0E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E78361-43B2-2401-EF76-BFE5B2F1CA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E78361-43B2-2401-EF76-BFE5B2F1CA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E78361-43B2-2401-EF76-BFE5B2F1CA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E78361-43B2-2401-EF76-BFE5B2F1CA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
